@@ -176,7 +176,7 @@ git cherry-pick bc33b8b0c9a1e19a388db734f40e469b56880d3e
 
 external/stlport because you need your ril running :)
 ```bash
-git clone https://github.com/Haxynox/android_external_stlport external/stlport aosp-6.0
+git clone https://github.com/Haxynox/android_external_stlport external/stlport Mmm
 ```
 
 You may face some weird errors if you are on a ROM that is purely meant for Nexus only and they might lack some necessary commits. If that is the case, you should go checkout our
